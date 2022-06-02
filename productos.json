@@ -3,36 +3,36 @@
     "precio": 85999,
     "id": 1,
     "title": "Notebook",
-    "thumbnailUrl": "https://picsum.photos/65/600"
+    "thumbnailUrl": "https://picsum.photos/id/65/600"
   },
   {
     "precio": 499,
     "id": 2,
     "title": "Remera",
-    "thumbnailUrl": "https://picsum.photos/96/600"
+    "thumbnailUrl": "https://picsum.photos/id/96/600"
   },
   {
     "precio": 17500,
     "id": 3,
     "title": "Cocina",
-    "thumbnailUrl": "https://picsum.photos/14/600"
+    "thumbnailUrl": "https://picsum.photos/id/14/600"
   },
   {
     "precio": 899,
     "id": 4,
     "title": "Parlantes",
-    "thumbnailUrl": "https://picsum.photos/87/600"
+    "thumbnailUrl": "https://picsum.photos/id/87/600"
   },
   {
     "precio": 450,
     "id": 5,
     "title": "Mouse",
-    "thumbnailUrl": "https://picsum.photos/32/600"
+    "thumbnailUrl": "https://picsum.photos/id/32/600"
   },
   {
     "precio": 150,
     "id": 6,
     "title": "Mate",
-    "thumbnailUrl": "https://picsum.photos/600"
+    "thumbnailUrl": "https://picsum.photos/id/63/600"
   }
 ]
